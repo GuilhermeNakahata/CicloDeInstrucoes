@@ -16,7 +16,7 @@
 Neste trabalho será apresentando a implementação e representação de um ciclo de instrução de um processador, utilizando-se conhecimentos obtidos em sala de aula, sendo assim, possível a realização de tal algoritmo por meio de uma estrutura de dados simples e de fácil compreensão.
 Consultas à diferentes fontes online, combinadas ao auxílio do professor, foram fatores importantes para a realização do projeto. </p>
 
-Maiores informações pode ser vista [AQUI](./Relatório técnico.pdf)
+Maiores informações pode ser vista [AQUI](./Código fonte.docx)
 
 ---
 
